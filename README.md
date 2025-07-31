@@ -15,8 +15,8 @@ The article describes how to remove correlations from X-ray radiographs acquired
 ## 📓 Notebooks
 
 - 📘 [`usage.ipynb`](./usage.ipynb) — Demonstrates how to use the software in this repository.
-- 🧪 [`phantoms.ipynb`](./phantoms.ipynb) — Details for the data used in the paper (Teledyne DALSA Xineos-3131 detectors), available at [Zenodo DOI: 10.5281/zenodo.15383254](https://doi.org/10.5281/zenodo.15383254).
-- 🧠 [`2detect.ipynb`](./2detect.ipynb) — Contains the kernel estimation procedure for the 2DeTeCT dataset ([Nature Scientific Data DOI: 10.1038/s41597-023-02484-6](https://doi.org/10.1038/s41597-023-02484-6)).
+- 📷 [`phantoms.ipynb`](./phantoms.ipynb) — Details for the data used in the paper (Teledyne DALSA Xineos-3131 detectors), available at [Zenodo DOI: 10.5281/zenodo.15383254](https://doi.org/10.5281/zenodo.15383254).
+- 🫘 [`2detect.ipynb`](./2detect.ipynb) — Contains the kernel estimation procedure for the 2DeTeCT dataset ([Nature Scientific Data DOI: 10.1038/s41597-023-02484-6](https://doi.org/10.1038/s41597-023-02484-6)).
 
 ---
 
